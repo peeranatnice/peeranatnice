@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peeranat Phetmog</h1>
 <h3 align="center">I'm from Thailand.</h3>
 
-- 🌱 I’m currently learning **in Rangsit University,Thailand**
+- 🌱 I’m currently learning **in Rangsit University,Thailand.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
